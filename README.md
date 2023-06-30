@@ -89,11 +89,3 @@ The application has the following dependencies:
 - `stdexcept`: Standard exception classes.
 
 Ensure that the required dependencies are available in your C++ development environment.
-
-## Contributing
-
-Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code according to the terms of the license.
