@@ -1,1 +1,4 @@
 .vscode/
+client_start
+server_start
+./bin
